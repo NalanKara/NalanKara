@@ -70,7 +70,6 @@ Notion · Slack · Figma · VS Code
 ## Connect
 
 - 📧 **Email:** [kara-nalan@outlook.de](mailto:kara-nalan@outlook.de)
-- 📱 **Phone:** +49 176 22503401
 - 🌐 **GitHub:** [github.com/NalanKara](https://github.com/NalanKara)
 - 💼 **LinkedIn:** [linkedin.com/in/nalan-kara](https://www.linkedin.com/in/nalan-kara)
 
